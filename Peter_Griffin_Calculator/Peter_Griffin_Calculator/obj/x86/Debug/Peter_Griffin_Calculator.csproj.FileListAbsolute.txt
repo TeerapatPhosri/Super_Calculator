@@ -1,0 +1,6 @@
+/home/arthurpain/Desktop/Files/PC1/Desktop/File1/งานมหาลัย/Code/Monodevelop/Peter_Griffin_Calculator/Peter_Griffin_Calculator/obj/x86/Debug/Peter_Griffin_Calculator.csproj.AssemblyReference.cache
+/home/arthurpain/Desktop/Files/PC1/Desktop/File1/งานมหาลัย/Code/Monodevelop/Peter_Griffin_Calculator/Peter_Griffin_Calculator/obj/x86/Debug/Peter_Griffin_Calculator.csproj.CoreCompileInputs.cache
+/home/arthurpain/Desktop/Files/PC1/Desktop/File1/งานมหาลัย/Code/Monodevelop/Peter_Griffin_Calculator/Peter_Griffin_Calculator/bin/Debug/Peter_Griffin_Calculator.exe
+/home/arthurpain/Desktop/Files/PC1/Desktop/File1/งานมหาลัย/Code/Monodevelop/Peter_Griffin_Calculator/Peter_Griffin_Calculator/bin/Debug/Peter_Griffin_Calculator.pdb
+/home/arthurpain/Desktop/Files/PC1/Desktop/File1/งานมหาลัย/Code/Monodevelop/Peter_Griffin_Calculator/Peter_Griffin_Calculator/obj/x86/Debug/Peter_Griffin_Calculator.exe
+/home/arthurpain/Desktop/Files/PC1/Desktop/File1/งานมหาลัย/Code/Monodevelop/Peter_Griffin_Calculator/Peter_Griffin_Calculator/obj/x86/Debug/Peter_Griffin_Calculator.pdb
